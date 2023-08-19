@@ -1,0 +1,7 @@
+base_uri: https://api.hubapi.com
+endpoint: /crm/v3/objects/companies
+method: GET
+query_string: 
+  properties: 
+  limit: 500
+  after:
